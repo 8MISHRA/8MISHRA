@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **DEEP Learning**
 
-- 📫 How to reach me **upkar8853@gmail.com**
+- 📫 How to reach me **Sent me a pull request**
 
 - 📄 Know about my experiences [Divyansh Mishra](https://docs.google.com/document/d/1Ds4xEOi-rdcVjWbtHLPP198FVzxR5x38pKP-GYreeso/edit?usp=sharing)
 
