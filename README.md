@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **DEEP Learning**
 
-- 📫 How to reach me **Sent me a pull request**
+- 📫 How to reach me **Send me a pull request**
 
 - 📄 Know about my experiences [Divyansh Mishra](https://docs.google.com/document/d/1Ds4xEOi-rdcVjWbtHLPP198FVzxR5x38pKP-GYreeso/edit?usp=sharing)
 
