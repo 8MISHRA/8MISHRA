@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Send me a pull request**
 
-- 📄 Know about my experiences [Divyansh Mishra](https://docs.google.com/document/d/1Ds4xEOi-rdcVjWbtHLPP198FVzxR5x38pKP-GYreeso/edit?usp=sharing)
+- 📄 Know about my experiences [Divyansh Mishra](https://docs.google.com/document/d/1Ds4xEOi-rdcVjWbtHLPP198FVzxR5x38p)
 
 - ⚡ Fun fact **Fun fact is fun 🥳**
 
