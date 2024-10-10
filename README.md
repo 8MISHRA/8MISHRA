@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/itsgoodboy4u" target="blank"><img src="https://img.shields.io/twitter/follow/itsgoodboy4u?logo=twitter&style=for-the-badge" alt="itsgoodboy4u" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **DEEP Learning**
+- 🌱 I’m currently learning **Creative Problem Solving**
 
 - 📫 How to reach me **Send me a pull request**
 
