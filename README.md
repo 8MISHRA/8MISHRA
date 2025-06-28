@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Divyansh Mishra</h1>
-<h3 align="center">A passionate AI Engineer from BHARAT</h3>
+<h3 align="center">A passionate Software Developer Engineer from BHARAT</h3>
 
 
 <img align="right" alt="codingBuddy" width="500" src="https://github.com/8MISHRA/8MISHRA/blob/main/coddingBuddy.webp">
@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Creative Problem Solving**
+- 🌱 I’m currently learning **Creative Problem Solving and AI**
 
 - 📫 How to reach me **Send me a pull request**
 
-- 📄 Know about my experiences [Divyansh Mishra](https://docs.google.com/document/d/1Ds4xEOi-rdcVjWbtHLPP198FVzxR5x38p)
+<!-- - 📄 Know about my experiences [Divyansh Mishra](https://docs.google.com/document/d/1Ds4xEOi-rdcVjWbtHLPP198FVzxR5x38p) -->
 
-- ⚡ Fun fact **Fun fact is fun 🥳**
+- ⚡ Fun fact **Check other Hubs, not GitHub**
 
 
 <h3 align="left">Connect with me:</h3>
