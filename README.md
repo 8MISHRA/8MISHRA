@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Divyansh Mishra</h1>
-<h3 align="center">A passionate Software Developer Engineer from BHARAT</h3>
+<h3 align="center">A passionate Software Engineer from BHARAT</h3>
 
 
 <img align="right" alt="codingBuddy" width="500" src="https://github.com/8MISHRA/8MISHRA/blob/main/coddingBuddy.webp">
